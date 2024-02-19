@@ -1,0 +1,188 @@
+Source Dorm,Target Dorm,Number of Matches
+McGill,Zeppos,3
+McGill,Rothschild,3
+McGill,Kissam,3
+McGill,McTyeire,2
+McGill,EBI,4
+McGill,Off Campus,4
+McGill,Village,0
+McGill,Commons,13
+McGill,Highland,8
+McGill,McGill,1
+McGill,Branscomb,2
+McGill,Tolman,2
+McGill,Diermier's Penthouse,2
+McGill,Cole,0
+Zeppos,McGill,5
+Zeppos,Village,3
+Zeppos,EBI,8
+Zeppos,Diermier's Penthouse,4
+Zeppos,Kissam,15
+Zeppos,Rothschild,14
+Zeppos,Highland,13
+Zeppos,Commons,2
+Zeppos,Zeppos,7
+Zeppos,Cole,2
+Zeppos,Branscomb,9
+Zeppos,Off Campus,6
+Zeppos,Tolman,3
+Zeppos,McTyeire,1
+Rothschild,McGill,2
+Rothschild,Village,2
+Rothschild,EBI,4
+Rothschild,Zeppos,2
+Rothschild,Kissam,11
+Rothschild,Highland,6
+Rothschild,Cole,2
+Rothschild,Tolman,1
+Rothschild,Diermier's Penthouse,0
+Rothschild,Off Campus,3
+Rothschild,Branscomb,2
+Rothschild,Commons,1
+Rothschild,Rothschild,3
+Kissam,McGill,4
+Kissam,Village,3
+Kissam,EBI,6
+Kissam,Zeppos,7
+Kissam,Kissam,15
+Kissam,McTyeire,1
+Kissam,Rothschild,11
+Kissam,Cole,4
+Kissam,Highland,10
+Kissam,Commons,4
+Kissam,Diermier's Penthouse,3
+Kissam,Branscomb,5
+Kissam,Off Campus,6
+Kissam,Tolman,2
+McTyeire,McGill,0
+McTyeire,Commons,1
+McTyeire,Kissam,4
+McTyeire,Highland,3
+McTyeire,Branscomb,4
+McTyeire,Cole,1
+McTyeire,Tolman,0
+McTyeire,Zeppos,0
+McTyeire,EBI,2
+McTyeire,Diermier's Penthouse,1
+McTyeire,Off Campus,0
+EBI,McGill,1
+EBI,Rothschild,4
+EBI,Zeppos,5
+EBI,Kissam,9
+EBI,Cole,2
+EBI,Off Campus,3
+EBI,EBI,5
+EBI,Highland,11
+EBI,Commons,8
+EBI,Branscomb,4
+EBI,Diermier's Penthouse,2
+EBI,Village,3
+EBI,Tolman,3
+EBI,McTyeire,1
+Off Campus,McGill,1
+Off Campus,Village,0
+Off Campus,EBI,1
+Off Campus,Cole,0
+Off Campus,Zeppos,2
+Off Campus,Rothschild,2
+Off Campus,Off Campus,3
+Off Campus,Kissam,5
+Off Campus,Tolman,0
+Off Campus,Highland,1
+Off Campus,Branscomb,0
+Off Campus,Diermier's Penthouse,0
+Off Campus,McTyeire,1
+Village,McGill,1
+Village,Zeppos,4
+Village,Off Campus,5
+Village,Tolman,2
+Village,Rothschild,3
+Village,Diermier's Penthouse,4
+Village,Kissam,4
+Village,Commons,6
+Village,Highland,6
+Village,Cole,6
+Village,Branscomb,5
+Village,EBI,1
+Tolman,Village,2
+Tolman,Highland,8
+Tolman,Commons,8
+Tolman,Branscomb,9
+Tolman,Cole,1
+Tolman,Rothschild,3
+Tolman,McTyeire,3
+Tolman,McGill,2
+Tolman,Diermier's Penthouse,2
+Tolman,EBI,0
+Tolman,Zeppos,1
+Tolman,Kissam,0
+Tolman,Off Campus,1
+Tolman,Tolman,1
+Diermier's Penthouse,Village,2
+Diermier's Penthouse,Commons,16
+Diermier's Penthouse,Zeppos,4
+Diermier's Penthouse,Highland,8
+Diermier's Penthouse,McGill,0
+Diermier's Penthouse,Rothschild,1
+Diermier's Penthouse,Tolman,3
+Diermier's Penthouse,Kissam,5
+Diermier's Penthouse,Diermier's Penthouse,2
+Diermier's Penthouse,Branscomb,10
+Diermier's Penthouse,Cole,0
+Diermier's Penthouse,EBI,1
+Diermier's Penthouse,McTyeire,1
+Diermier's Penthouse,Off Campus,1
+Commons,Commons,358
+Commons,McTyeire,4
+Commons,Highland,41
+Commons,Diermier's Penthouse,12
+Commons,McGill,9
+Commons,Zeppos,3
+Commons,Cole,4
+Commons,Village,11
+Commons,Tolman,8
+Commons,Kissam,7
+Commons,Branscomb,33
+Commons,EBI,1
+Commons,Rothschild,0
+Cole,EBI,0
+Cole,Zeppos,8
+Cole,Off Campus,2
+Cole,Rothschild,3
+Cole,Kissam,7
+Cole,Commons,8
+Cole,Branscomb,2
+Cole,Highland,7
+Cole,McTyeire,1
+Cole,Tolman,8
+Cole,Village,2
+Cole,Diermier's Penthouse,1
+Cole,McGill,1
+Highland,Commons,50
+Highland,McGill,6
+Highland,Zeppos,12
+Highland,McTyeire,9
+Highland,Rothschild,7
+Highland,Branscomb,23
+Highland,Tolman,4
+Highland,Highland,27
+Highland,Diermier's Penthouse,9
+Highland,Cole,8
+Highland,Kissam,9
+Highland,Village,4
+Highland,EBI,3
+Highland,Off Campus,2
+Branscomb,McGill,1
+Branscomb,Highland,20
+Branscomb,Cole,4
+Branscomb,Zeppos,2
+Branscomb,McTyeire,3
+Branscomb,Tolman,3
+Branscomb,Branscomb,10
+Branscomb,Commons,21
+Branscomb,Diermier's Penthouse,1
+Branscomb,Village,4
+Branscomb,Kissam,2
+Branscomb,EBI,0
+Branscomb,Rothschild,3
+Branscomb,Off Campus,1
